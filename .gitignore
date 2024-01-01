@@ -1,0 +1,13 @@
+# Project screen layout files
+*.uvguix.*
+
+# All files that are part of a pack
+*.pack
+
+# Generated output files in the sub-directories .\Listings and .\Objects
+.\Listings\*
+.\Objects\*
+
+# INI files for debug adapters
+*.ini
+
