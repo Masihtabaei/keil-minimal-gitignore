@@ -5,8 +5,8 @@
 *.pack
 
 # Generated output files in the sub-directories .\Listings and .\Objects
-.\Listings\*
-.\Objects\*
+\Listings\*
+\Objects\*
 
 # INI files for debug adapters
 *.ini
